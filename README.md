@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```markdown
 # Smart Logistics AI — Tim SANNIN (AIC COMPFEST 18)
 
@@ -83,3 +84,7 @@ logistik pertanian per lokasi tidak tersedia secara publik.
 
 Tim SANNIN
 ```
+=======
+# Logistik-Cabai-Petani-Makassar
+AI-powered chili logistics project to support distribution planning, route optimization, and data-driven decision-making for farmers in Makassar, Indonesia.
+>>>>>>> 84edfb19b3e11aaa951f5b4b48d93a4e880dbfba

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ```markdown
 # Smart Logistics AI — Tim SANNIN (AIC COMPFEST 18)
 

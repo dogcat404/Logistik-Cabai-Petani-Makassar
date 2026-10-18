@@ -1,0 +1,28 @@
+# Environment variables (API keys, secrets)
+.env
+backend/.env
+ai-service/.env
+frontend/.env
+
+# Node modules
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Model files (opsional, kalau ukurannya besar — lihat catatan di bawah)
+# ai-service/models/*.pkl
+# ai-service/models/*.h5
+# ai-service/models/saved_model/
+
+# Build output
+frontend/build/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+# Backup and temporary files
+*.env.save
+*.env.save.*
+*.save
+*.save

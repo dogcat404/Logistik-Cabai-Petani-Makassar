@@ -1,0 +1,18 @@
+{
+  "lokasi": [
+    {"nama": "Gudang Distribusi Makassar", "lat": -5.1339, "lon": 119.4128, "demand": 0},
+    {"nama": "Sentra Tani Gowa",          "lat": -5.2094, "lon": 119.4498, "demand": 600},
+    {"nama": "Sentra Tani Maros",         "lat": -5.0027, "lon": 119.5713, "demand": 450},
+    {"nama": "Sentra Tani Jeneponto",     "lat": -5.6317, "lon": 119.7314, "demand": 800},
+    {"nama": "Sentra Tani Bantaeng",      "lat": -5.5386, "lon": 119.9515, "demand": 350},
+    {"nama": "Sentra Tani Takalar",       "lat": -5.4167, "lon": 119.4167, "demand": 500}
+  ],
+  "jarak_matrix": [
+    [0.0, 13.0, 26.5, 89.1, 123.6, 42.5],
+    [11.7, 0.0, 33.8, 78.5, 113.0, 31.9],
+    [27.5, 34.0, 0.0, 110.1, 144.5, 63.5],
+    [88.5, 76.7, 110.6, 0.0, 40.6, 52.6],
+    [123.1, 111.3, 145.2, 40.8, 0.0, 87.2],
+    [41.7, 29.9, 63.8, 52.8, 87.2, 0.0]
+  ]
+}
